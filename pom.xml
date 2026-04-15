@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.80.108.176:8081/repository/maven1/</url>
+		    <url>http://52.90.187.125:8081/#admin/repository/repositories:Nexusmaven</url>
 		</repository>
   	</distributionManagement>
 	
